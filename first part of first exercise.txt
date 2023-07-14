@@ -5,7 +5,7 @@
 		 - cd - перейти в корень
 4) Создать 3 папки - mkdir folder2 folder3 folder4 - создает 3 папки
 		   - mkdir folder2/folder3/folder4 - создает 3 папки, но одна вложена в другую
-5) Зайти в любоую папку - change directory - cd - cd folder2
+5) Зайти в любую папку - change directory - cd - cd folder2
 6) Создать 5 файлов (3 txt, 2 json)
 	         - touch имя файла (просто создать файл) touch file1.txt
 		 - cat > имя файла (создать файл и заполнить его, для сохранения нажать CRTL+D)
